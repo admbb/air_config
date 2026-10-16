@@ -6,4 +6,4 @@ payload:
   - DOMAIN-SUFFIX,frp-cat.com
   - DOMAIN-SUFFIX,cdn.jsdelivr.net
   - DOMAIN-SUFFIX,roonlabs.net
-  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,download.nvidia.com
